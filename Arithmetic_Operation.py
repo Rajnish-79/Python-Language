@@ -1,0 +1,9 @@
+x=int(input("Enter a No:"))
+y=int(input("Enter another No:"))
+print(x,'+',y,'=',x+y)
+print(x,'-',y,'=',x-y)
+print(x,'*',y,'=',x*y)
+print(x,'/',y,'=',x/y)
+print(x,'**',y,'=',x**y) #Exponentiation
+print(x,'%',y,'=',x%y)
+print(x,'//',y,'=',x//y) #floor division
